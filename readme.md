@@ -1,6 +1,10 @@
 # Azurebot-notifier
 
+
 This script sends a skype message notification whenever a URL you specified changes  state (From up to down or down to up)
+
+![Alt text](azurebot-screenshot.png?raw=true "Sample screenshot")
+
 
 ### Installation steps:
 * Create a pay-as-you-go account from azure
