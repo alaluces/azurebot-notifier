@@ -1,0 +1,16 @@
+{
+   "urlList":[
+      {
+         "url":"https://example.com/",
+         "status":"up",
+         "treshold":3,
+         "count":0
+      },
+      {
+         "url":"https://test.example.com/",
+         "status":"up",
+         "treshold":3,
+         "count":0
+      }
+   ]
+}
