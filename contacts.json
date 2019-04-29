@@ -1,0 +1,19 @@
+{
+   "contactList":[
+      {   
+         "user":{
+            "id":"",
+            "name":""
+         },
+         "bot":{
+            "id":"",
+            "name":""
+         },
+         "conversation":{
+            "id":""
+         },
+         "channelId":"skype",
+         "serviceUrl":"https://smba.trafficmanager.net/apis/"
+      }
+   ]
+}
