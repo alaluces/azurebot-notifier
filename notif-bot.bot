@@ -1,0 +1,15 @@
+{
+    "name": "notif-bot",
+    "padlock": "",
+    "services": [
+        {
+
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "https://your.endpoint.com/api/messages",
+            "appId": "your azure bot app id",
+            "appPassword": "your azure bot app pw",
+            "id": "1"            
+        }
+    ]
+}
